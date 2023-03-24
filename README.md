@@ -2,6 +2,7 @@
 # Unsupervised Class-incremental Learning through Confusion
 
 This repository is the official implementation of Unsupervised Class-incremental Learning through Confusion. 
+By Kun Cao and Shivam Khare
 
 
 ## Requirements
